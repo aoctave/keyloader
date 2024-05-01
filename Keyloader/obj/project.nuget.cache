@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWceAZ3MPtIrrQM2LLWDfim9wMeOoe244pGLGxWwgmrRh6R8T+Lemdx4Zepk/W8URlbmbVOWbAygRuOmsKs8DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Keyloader\\Keyloader\\Keyloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.formats.cbor\\7.0.0\\system.formats.cbor.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\yubico.core\\1.10.0\\yubico.core.1.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\yubico.dotnetpolyfills\\1.10.0\\yubico.dotnetpolyfills.1.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\yubico.nativeshims\\1.10.0\\yubico.nativeshims.1.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\yubico.yubikey\\1.10.0\\yubico.yubikey.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

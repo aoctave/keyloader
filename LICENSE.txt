@@ -1,0 +1,9 @@
+Keyloader
+(c)2024 AOCTAVE Co. Ltd.
+
+This software is intended for testing and development purposes only. It does not follow secure design principles 
+for handling production key material. For example, keys are shown in plaintext in the log message window. 
+It is provided as-is with no warranty of any kind.
+
+You may use this software at no charge, inspect the source code and modify the source code for your own use, 
+but you may not redistribute it.
